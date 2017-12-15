@@ -1,0 +1,30 @@
+F:\center\winxp\centerweb\LogComponent\obj\Debug\ResolveAssemblyReference.cache
+F:\center\winxp\centerweb\LogComponent\bin\Debug\LogComponent.dll
+F:\center\winxp\centerweb\LogComponent\bin\Debug\LogComponent.pdb
+F:\center\winxp\centerweb\LogComponent\bin\Debug\log4net.dll
+F:\center\winxp\centerweb\LogComponent\obj\Debug\LogComponent.dll
+F:\center\winxp\centerweb\LogComponent\obj\Debug\LogComponent.pdb
+E:\Test\log4net\WebSite1\LogComponent\bin\Debug\LogComponent.dll
+E:\Test\log4net\WebSite1\LogComponent\bin\Debug\LogComponent.pdb
+E:\Test\log4net\WebSite1\LogComponent\obj\Debug\ResolveAssemblyReference.cache
+E:\Test\log4net\WebSite1\LogComponent\obj\Debug\LogComponent.dll
+E:\Test\log4net\WebSite1\LogComponent\obj\Debug\LogComponent.pdb
+D:\网上下载例子\代码\NET\log4netSample\LogComponent\bin\Debug\LogComponent.dll
+D:\网上下载例子\代码\NET\log4netSample\LogComponent\bin\Debug\LogComponent.pdb
+D:\网上下载例子\代码\NET\log4netSample\LogComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\网上下载例子\代码\NET\log4netSample\LogComponent\obj\Debug\LogComponent.dll
+D:\网上下载例子\代码\NET\log4netSample\LogComponent\obj\Debug\LogComponent.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\LogComponent\bin\Debug\LogComponent.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\LogComponent\bin\Debug\LogComponent.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\LogComponent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\LogComponent\obj\Debug\LogComponent.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\LogComponent\obj\Debug\LogComponent.pdb
+D:\程序Demo\NET\lognet\LogComponent\bin\Debug\LogComponent.dll
+D:\程序Demo\NET\lognet\LogComponent\bin\Debug\LogComponent.pdb
+D:\程序Demo\NET\lognet\LogComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\程序Demo\NET\lognet\LogComponent\obj\Debug\LogComponent.dll
+D:\程序Demo\NET\lognet\LogComponent\obj\Debug\LogComponent.pdb
+E:\cwj\程序Demo\NET\lognet\LogComponent\bin\Debug\LogComponent.dll
+E:\cwj\程序Demo\NET\lognet\LogComponent\bin\Debug\LogComponent.pdb
+E:\cwj\程序Demo\NET\lognet\LogComponent\obj\Debug\LogComponent.dll
+E:\cwj\程序Demo\NET\lognet\LogComponent\obj\Debug\LogComponent.pdb

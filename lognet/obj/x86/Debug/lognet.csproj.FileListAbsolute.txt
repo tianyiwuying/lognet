@@ -1,0 +1,50 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\bin\Debug\lognet.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\bin\Debug\lognet.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\bin\Debug\lognet.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\bin\Debug\log4net.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\bin\Debug\LogComponent.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\bin\Debug\LogComponent.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\MainWindow.baml
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\MainWindow.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\App.g.cs
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\lognet_MarkupCompile.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\lognet.g.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\lognet.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\lognet.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\lognet\lognet\obj\x86\Debug\lognet.pdb
+D:\程序Demo\NET\lognet\lognet\bin\Debug\lognet.exe.config
+D:\程序Demo\NET\lognet\lognet\bin\Debug\lognet.exe
+D:\程序Demo\NET\lognet\lognet\bin\Debug\lognet.pdb
+D:\程序Demo\NET\lognet\lognet\bin\Debug\log4net.dll
+D:\程序Demo\NET\lognet\lognet\bin\Debug\LogComponent.dll
+D:\程序Demo\NET\lognet\lognet\bin\Debug\LogComponent.pdb
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\MainWindow.baml
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\MainWindow.g.cs
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\App.g.cs
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet_MarkupCompile.cache
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.g.resources
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.Properties.Resources.resources
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.exe
+D:\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.pdb
+E:\cwj\程序Demo\NET\lognet\lognet\bin\Debug\lognet.exe.config
+E:\cwj\程序Demo\NET\lognet\lognet\bin\Debug\lognet.exe
+E:\cwj\程序Demo\NET\lognet\lognet\bin\Debug\lognet.pdb
+E:\cwj\程序Demo\NET\lognet\lognet\bin\Debug\log4net.dll
+E:\cwj\程序Demo\NET\lognet\lognet\bin\Debug\LogComponent.dll
+E:\cwj\程序Demo\NET\lognet\lognet\bin\Debug\LogComponent.pdb
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.csprojResolveAssemblyReference.cache
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\MainWindow.baml
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\MainWindow.g.cs
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\App.g.cs
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet_MarkupCompile.cache
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.g.resources
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.Properties.Resources.resources
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.csproj.GenerateResource.Cache
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.exe
+E:\cwj\程序Demo\NET\lognet\lognet\obj\x86\Debug\lognet.pdb
